@@ -1,0 +1,2 @@
+# minidatastore
+Minimal GeoServer DataStore
